@@ -1,0 +1,757 @@
+book_id,title,author,subject,class,available
+1001,Book Title 1001,Ruskin Bond,Science,4,No
+1002,Book Title 1002,R.D. Sharma,Mathematics,4,Yes
+1003,Book Title 1003,J.K. Rowling,English,4,No
+1004,Book Title 1004,A.P.J. Abdul Kalam,History,4,Yes
+1005,Book Title 1005,Oxford,Geography,4,No
+1006,Book Title 1006,DK,Computer,4,Yes
+1007,Book Title 1007,Evergreen,Biology,4,No
+1008,Book Title 1008,NCERT,Physics,4,Yes
+1009,Book Title 1009,Ruskin Bond,Chemistry,4,No
+1010,Book Title 1010,R.D. Sharma,AI,4,Yes
+1011,Book Title 1011,J.K. Rowling,Robotics,4,No
+1012,Book Title 1012,A.P.J. Abdul Kalam,Science,4,Yes
+1013,Book Title 1013,Oxford,Mathematics,4,No
+1014,Book Title 1014,DK,English,4,Yes
+1015,Book Title 1015,Evergreen,History,4,No
+1016,Book Title 1016,NCERT,Geography,4,Yes
+1017,Book Title 1017,Ruskin Bond,Computer,4,No
+1018,Book Title 1018,R.D. Sharma,Biology,4,Yes
+1019,Book Title 1019,J.K. Rowling,Physics,4,No
+1020,Book Title 1020,A.P.J. Abdul Kalam,Chemistry,4,Yes
+1021,Book Title 1021,Oxford,AI,4,No
+1022,Book Title 1022,DK,Robotics,4,Yes
+1023,Book Title 1023,Evergreen,Science,4,No
+1024,Book Title 1024,NCERT,Mathematics,4,Yes
+1025,Book Title 1025,Ruskin Bond,English,4,No
+1026,Book Title 1026,R.D. Sharma,History,4,Yes
+1027,Book Title 1027,J.K. Rowling,Geography,4,No
+1028,Book Title 1028,A.P.J. Abdul Kalam,Computer,4,Yes
+1029,Book Title 1029,Oxford,Biology,4,No
+1030,Book Title 1030,DK,Physics,4,Yes
+1031,Book Title 1031,Evergreen,Chemistry,4,No
+1032,Book Title 1032,NCERT,AI,4,Yes
+1033,Book Title 1033,Ruskin Bond,Robotics,4,No
+1034,Book Title 1034,R.D. Sharma,Science,4,Yes
+1035,Book Title 1035,J.K. Rowling,Mathematics,4,No
+1036,Book Title 1036,A.P.J. Abdul Kalam,English,4,Yes
+1037,Book Title 1037,Oxford,History,4,No
+1038,Book Title 1038,DK,Geography,4,Yes
+1039,Book Title 1039,Evergreen,Computer,4,No
+1040,Book Title 1040,NCERT,Biology,4,Yes
+1041,Book Title 1041,Ruskin Bond,Physics,4,No
+1042,Book Title 1042,R.D. Sharma,Chemistry,4,Yes
+1043,Book Title 1043,J.K. Rowling,AI,4,No
+1044,Book Title 1044,A.P.J. Abdul Kalam,Robotics,4,Yes
+1045,Book Title 1045,Oxford,Science,4,No
+1046,Book Title 1046,DK,Mathematics,4,Yes
+1047,Book Title 1047,Evergreen,English,4,No
+1048,Book Title 1048,NCERT,History,4,Yes
+1049,Book Title 1049,Ruskin Bond,Geography,4,No
+1050,Book Title 1050,R.D. Sharma,Computer,4,Yes
+1051,Book Title 1051,J.K. Rowling,Biology,4,No
+1052,Book Title 1052,A.P.J. Abdul Kalam,Physics,4,Yes
+1053,Book Title 1053,Oxford,Chemistry,4,No
+1054,Book Title 1054,DK,AI,4,Yes
+1055,Book Title 1055,Evergreen,Robotics,4,No
+1056,Book Title 1056,NCERT,Science,4,Yes
+1057,Book Title 1057,Ruskin Bond,Mathematics,4,No
+1058,Book Title 1058,R.D. Sharma,English,4,Yes
+1059,Book Title 1059,J.K. Rowling,History,4,No
+1060,Book Title 1060,A.P.J. Abdul Kalam,Geography,4,Yes
+1061,Book Title 1061,Oxford,Computer,4,No
+1062,Book Title 1062,DK,Biology,4,Yes
+1063,Book Title 1063,Evergreen,Physics,4,No
+1064,Book Title 1064,NCERT,Chemistry,4,Yes
+1065,Book Title 1065,Ruskin Bond,AI,4,No
+1066,Book Title 1066,R.D. Sharma,Robotics,4,Yes
+1067,Book Title 1067,J.K. Rowling,Science,4,No
+1068,Book Title 1068,A.P.J. Abdul Kalam,Mathematics,4,Yes
+1069,Book Title 1069,Oxford,English,4,No
+1070,Book Title 1070,DK,History,4,Yes
+1071,Book Title 1071,Evergreen,Geography,4,No
+1072,Book Title 1072,NCERT,Computer,4,Yes
+1073,Book Title 1073,Ruskin Bond,Biology,4,No
+1074,Book Title 1074,R.D. Sharma,Physics,4,Yes
+1075,Book Title 1075,J.K. Rowling,Chemistry,4,No
+1076,Book Title 1076,A.P.J. Abdul Kalam,AI,4,Yes
+1077,Book Title 1077,Oxford,Robotics,4,No
+1078,Book Title 1078,DK,Science,4,Yes
+1079,Book Title 1079,Evergreen,Mathematics,4,No
+1080,Book Title 1080,NCERT,English,4,Yes
+1081,Book Title 1081,Ruskin Bond,History,4,No
+1082,Book Title 1082,R.D. Sharma,Geography,4,Yes
+1083,Book Title 1083,J.K. Rowling,Computer,4,No
+1084,Book Title 1084,A.P.J. Abdul Kalam,Biology,4,Yes
+1085,Book Title 1085,Oxford,Physics,5,No
+1086,Book Title 1086,DK,Chemistry,5,Yes
+1087,Book Title 1087,Evergreen,AI,5,No
+1088,Book Title 1088,NCERT,Robotics,5,Yes
+1089,Book Title 1089,Ruskin Bond,Science,5,No
+1090,Book Title 1090,R.D. Sharma,Mathematics,5,Yes
+1091,Book Title 1091,J.K. Rowling,English,5,No
+1092,Book Title 1092,A.P.J. Abdul Kalam,History,5,Yes
+1093,Book Title 1093,Oxford,Geography,5,No
+1094,Book Title 1094,DK,Computer,5,Yes
+1095,Book Title 1095,Evergreen,Biology,5,No
+1096,Book Title 1096,NCERT,Physics,5,Yes
+1097,Book Title 1097,Ruskin Bond,Chemistry,5,No
+1098,Book Title 1098,R.D. Sharma,AI,5,Yes
+1099,Book Title 1099,J.K. Rowling,Robotics,5,No
+1100,Book Title 1100,A.P.J. Abdul Kalam,Science,5,Yes
+1101,Book Title 1101,Oxford,Mathematics,5,No
+1102,Book Title 1102,DK,English,5,Yes
+1103,Book Title 1103,Evergreen,History,5,No
+1104,Book Title 1104,NCERT,Geography,5,Yes
+1105,Book Title 1105,Ruskin Bond,Computer,5,No
+1106,Book Title 1106,R.D. Sharma,Biology,5,Yes
+1107,Book Title 1107,J.K. Rowling,Physics,5,No
+1108,Book Title 1108,A.P.J. Abdul Kalam,Chemistry,5,Yes
+1109,Book Title 1109,Oxford,AI,5,No
+1110,Book Title 1110,DK,Robotics,5,Yes
+1111,Book Title 1111,Evergreen,Science,5,No
+1112,Book Title 1112,NCERT,Mathematics,5,Yes
+1113,Book Title 1113,Ruskin Bond,English,5,No
+1114,Book Title 1114,R.D. Sharma,History,5,Yes
+1115,Book Title 1115,J.K. Rowling,Geography,5,No
+1116,Book Title 1116,A.P.J. Abdul Kalam,Computer,5,Yes
+1117,Book Title 1117,Oxford,Biology,5,No
+1118,Book Title 1118,DK,Physics,5,Yes
+1119,Book Title 1119,Evergreen,Chemistry,5,No
+1120,Book Title 1120,NCERT,AI,5,Yes
+1121,Book Title 1121,Ruskin Bond,Robotics,5,No
+1122,Book Title 1122,R.D. Sharma,Science,5,Yes
+1123,Book Title 1123,J.K. Rowling,Mathematics,5,No
+1124,Book Title 1124,A.P.J. Abdul Kalam,English,5,Yes
+1125,Book Title 1125,Oxford,History,5,No
+1126,Book Title 1126,DK,Geography,5,Yes
+1127,Book Title 1127,Evergreen,Computer,5,No
+1128,Book Title 1128,NCERT,Biology,5,Yes
+1129,Book Title 1129,Ruskin Bond,Physics,5,No
+1130,Book Title 1130,R.D. Sharma,Chemistry,5,Yes
+1131,Book Title 1131,J.K. Rowling,AI,5,No
+1132,Book Title 1132,A.P.J. Abdul Kalam,Robotics,5,Yes
+1133,Book Title 1133,Oxford,Science,5,No
+1134,Book Title 1134,DK,Mathematics,5,Yes
+1135,Book Title 1135,Evergreen,English,5,No
+1136,Book Title 1136,NCERT,History,5,Yes
+1137,Book Title 1137,Ruskin Bond,Geography,5,No
+1138,Book Title 1138,R.D. Sharma,Computer,5,Yes
+1139,Book Title 1139,J.K. Rowling,Biology,5,No
+1140,Book Title 1140,A.P.J. Abdul Kalam,Physics,5,Yes
+1141,Book Title 1141,Oxford,Chemistry,5,No
+1142,Book Title 1142,DK,AI,5,Yes
+1143,Book Title 1143,Evergreen,Robotics,5,No
+1144,Book Title 1144,NCERT,Science,5,Yes
+1145,Book Title 1145,Ruskin Bond,Mathematics,5,No
+1146,Book Title 1146,R.D. Sharma,English,5,Yes
+1147,Book Title 1147,J.K. Rowling,History,5,No
+1148,Book Title 1148,A.P.J. Abdul Kalam,Geography,5,Yes
+1149,Book Title 1149,Oxford,Computer,5,No
+1150,Book Title 1150,DK,Biology,5,Yes
+1151,Book Title 1151,Evergreen,Physics,5,No
+1152,Book Title 1152,NCERT,Chemistry,5,Yes
+1153,Book Title 1153,Ruskin Bond,AI,5,No
+1154,Book Title 1154,R.D. Sharma,Robotics,5,Yes
+1155,Book Title 1155,J.K. Rowling,Science,5,No
+1156,Book Title 1156,A.P.J. Abdul Kalam,Mathematics,5,Yes
+1157,Book Title 1157,Oxford,English,5,No
+1158,Book Title 1158,DK,History,5,Yes
+1159,Book Title 1159,Evergreen,Geography,5,No
+1160,Book Title 1160,NCERT,Computer,5,Yes
+1161,Book Title 1161,Ruskin Bond,Biology,5,No
+1162,Book Title 1162,R.D. Sharma,Physics,5,Yes
+1163,Book Title 1163,J.K. Rowling,Chemistry,5,No
+1164,Book Title 1164,A.P.J. Abdul Kalam,AI,5,Yes
+1165,Book Title 1165,Oxford,Robotics,5,No
+1166,Book Title 1166,DK,Science,5,Yes
+1167,Book Title 1167,Evergreen,Mathematics,5,No
+1168,Book Title 1168,NCERT,English,5,Yes
+1169,Book Title 1169,Ruskin Bond,History,6,No
+1170,Book Title 1170,R.D. Sharma,Geography,6,Yes
+1171,Book Title 1171,J.K. Rowling,Computer,6,No
+1172,Book Title 1172,A.P.J. Abdul Kalam,Biology,6,Yes
+1173,Book Title 1173,Oxford,Physics,6,No
+1174,Book Title 1174,DK,Chemistry,6,Yes
+1175,Book Title 1175,Evergreen,AI,6,No
+1176,Book Title 1176,NCERT,Robotics,6,Yes
+1177,Book Title 1177,Ruskin Bond,Science,6,No
+1178,Book Title 1178,R.D. Sharma,Mathematics,6,Yes
+1179,Book Title 1179,J.K. Rowling,English,6,No
+1180,Book Title 1180,A.P.J. Abdul Kalam,History,6,Yes
+1181,Book Title 1181,Oxford,Geography,6,No
+1182,Book Title 1182,DK,Computer,6,Yes
+1183,Book Title 1183,Evergreen,Biology,6,No
+1184,Book Title 1184,NCERT,Physics,6,Yes
+1185,Book Title 1185,Ruskin Bond,Chemistry,6,No
+1186,Book Title 1186,R.D. Sharma,AI,6,Yes
+1187,Book Title 1187,J.K. Rowling,Robotics,6,No
+1188,Book Title 1188,A.P.J. Abdul Kalam,Science,6,Yes
+1189,Book Title 1189,Oxford,Mathematics,6,No
+1190,Book Title 1190,DK,English,6,Yes
+1191,Book Title 1191,Evergreen,History,6,No
+1192,Book Title 1192,NCERT,Geography,6,Yes
+1193,Book Title 1193,Ruskin Bond,Computer,6,No
+1194,Book Title 1194,R.D. Sharma,Biology,6,Yes
+1195,Book Title 1195,J.K. Rowling,Physics,6,No
+1196,Book Title 1196,A.P.J. Abdul Kalam,Chemistry,6,Yes
+1197,Book Title 1197,Oxford,AI,6,No
+1198,Book Title 1198,DK,Robotics,6,Yes
+1199,Book Title 1199,Evergreen,Science,6,No
+1200,Book Title 1200,NCERT,Mathematics,6,Yes
+1201,Book Title 1201,Ruskin Bond,English,6,No
+1202,Book Title 1202,R.D. Sharma,History,6,Yes
+1203,Book Title 1203,J.K. Rowling,Geography,6,No
+1204,Book Title 1204,A.P.J. Abdul Kalam,Computer,6,Yes
+1205,Book Title 1205,Oxford,Biology,6,No
+1206,Book Title 1206,DK,Physics,6,Yes
+1207,Book Title 1207,Evergreen,Chemistry,6,No
+1208,Book Title 1208,NCERT,AI,6,Yes
+1209,Book Title 1209,Ruskin Bond,Robotics,6,No
+1210,Book Title 1210,R.D. Sharma,Science,6,Yes
+1211,Book Title 1211,J.K. Rowling,Mathematics,6,No
+1212,Book Title 1212,A.P.J. Abdul Kalam,English,6,Yes
+1213,Book Title 1213,Oxford,History,6,No
+1214,Book Title 1214,DK,Geography,6,Yes
+1215,Book Title 1215,Evergreen,Computer,6,No
+1216,Book Title 1216,NCERT,Biology,6,Yes
+1217,Book Title 1217,Ruskin Bond,Physics,6,No
+1218,Book Title 1218,R.D. Sharma,Chemistry,6,Yes
+1219,Book Title 1219,J.K. Rowling,AI,6,No
+1220,Book Title 1220,A.P.J. Abdul Kalam,Robotics,6,Yes
+1221,Book Title 1221,Oxford,Science,6,No
+1222,Book Title 1222,DK,Mathematics,6,Yes
+1223,Book Title 1223,Evergreen,English,6,No
+1224,Book Title 1224,NCERT,History,6,Yes
+1225,Book Title 1225,Ruskin Bond,Geography,6,No
+1226,Book Title 1226,R.D. Sharma,Computer,6,Yes
+1227,Book Title 1227,J.K. Rowling,Biology,6,No
+1228,Book Title 1228,A.P.J. Abdul Kalam,Physics,6,Yes
+1229,Book Title 1229,Oxford,Chemistry,6,No
+1230,Book Title 1230,DK,AI,6,Yes
+1231,Book Title 1231,Evergreen,Robotics,6,No
+1232,Book Title 1232,NCERT,Science,6,Yes
+1233,Book Title 1233,Ruskin Bond,Mathematics,6,No
+1234,Book Title 1234,R.D. Sharma,English,6,Yes
+1235,Book Title 1235,J.K. Rowling,History,6,No
+1236,Book Title 1236,A.P.J. Abdul Kalam,Geography,6,Yes
+1237,Book Title 1237,Oxford,Computer,6,No
+1238,Book Title 1238,DK,Biology,6,Yes
+1239,Book Title 1239,Evergreen,Physics,6,No
+1240,Book Title 1240,NCERT,Chemistry,6,Yes
+1241,Book Title 1241,Ruskin Bond,AI,6,No
+1242,Book Title 1242,R.D. Sharma,Robotics,6,Yes
+1243,Book Title 1243,J.K. Rowling,Science,6,No
+1244,Book Title 1244,A.P.J. Abdul Kalam,Mathematics,6,Yes
+1245,Book Title 1245,Oxford,English,6,No
+1246,Book Title 1246,DK,History,6,Yes
+1247,Book Title 1247,Evergreen,Geography,6,No
+1248,Book Title 1248,NCERT,Computer,6,Yes
+1249,Book Title 1249,Ruskin Bond,Biology,6,No
+1250,Book Title 1250,R.D. Sharma,Physics,6,Yes
+1251,Book Title 1251,J.K. Rowling,Chemistry,6,No
+1252,Book Title 1252,A.P.J. Abdul Kalam,AI,6,Yes
+1253,Book Title 1253,Oxford,Robotics,7,No
+1254,Book Title 1254,DK,Science,7,Yes
+1255,Book Title 1255,Evergreen,Mathematics,7,No
+1256,Book Title 1256,NCERT,English,7,Yes
+1257,Book Title 1257,Ruskin Bond,History,7,No
+1258,Book Title 1258,R.D. Sharma,Geography,7,Yes
+1259,Book Title 1259,J.K. Rowling,Computer,7,No
+1260,Book Title 1260,A.P.J. Abdul Kalam,Biology,7,Yes
+1261,Book Title 1261,Oxford,Physics,7,No
+1262,Book Title 1262,DK,Chemistry,7,Yes
+1263,Book Title 1263,Evergreen,AI,7,No
+1264,Book Title 1264,NCERT,Robotics,7,Yes
+1265,Book Title 1265,Ruskin Bond,Science,7,No
+1266,Book Title 1266,R.D. Sharma,Mathematics,7,Yes
+1267,Book Title 1267,J.K. Rowling,English,7,No
+1268,Book Title 1268,A.P.J. Abdul Kalam,History,7,Yes
+1269,Book Title 1269,Oxford,Geography,7,No
+1270,Book Title 1270,DK,Computer,7,Yes
+1271,Book Title 1271,Evergreen,Biology,7,No
+1272,Book Title 1272,NCERT,Physics,7,Yes
+1273,Book Title 1273,Ruskin Bond,Chemistry,7,No
+1274,Book Title 1274,R.D. Sharma,AI,7,Yes
+1275,Book Title 1275,J.K. Rowling,Robotics,7,No
+1276,Book Title 1276,A.P.J. Abdul Kalam,Science,7,Yes
+1277,Book Title 1277,Oxford,Mathematics,7,No
+1278,Book Title 1278,DK,English,7,Yes
+1279,Book Title 1279,Evergreen,History,7,No
+1280,Book Title 1280,NCERT,Geography,7,Yes
+1281,Book Title 1281,Ruskin Bond,Computer,7,No
+1282,Book Title 1282,R.D. Sharma,Biology,7,Yes
+1283,Book Title 1283,J.K. Rowling,Physics,7,No
+1284,Book Title 1284,A.P.J. Abdul Kalam,Chemistry,7,Yes
+1285,Book Title 1285,Oxford,AI,7,No
+1286,Book Title 1286,DK,Robotics,7,Yes
+1287,Book Title 1287,Evergreen,Science,7,No
+1288,Book Title 1288,NCERT,Mathematics,7,Yes
+1289,Book Title 1289,Ruskin Bond,English,7,No
+1290,Book Title 1290,R.D. Sharma,History,7,Yes
+1291,Book Title 1291,J.K. Rowling,Geography,7,No
+1292,Book Title 1292,A.P.J. Abdul Kalam,Computer,7,Yes
+1293,Book Title 1293,Oxford,Biology,7,No
+1294,Book Title 1294,DK,Physics,7,Yes
+1295,Book Title 1295,Evergreen,Chemistry,7,No
+1296,Book Title 1296,NCERT,AI,7,Yes
+1297,Book Title 1297,Ruskin Bond,Robotics,7,No
+1298,Book Title 1298,R.D. Sharma,Science,7,Yes
+1299,Book Title 1299,J.K. Rowling,Mathematics,7,No
+1300,Book Title 1300,A.P.J. Abdul Kalam,English,7,Yes
+1301,Book Title 1301,Oxford,History,7,No
+1302,Book Title 1302,DK,Geography,7,Yes
+1303,Book Title 1303,Evergreen,Computer,7,No
+1304,Book Title 1304,NCERT,Biology,7,Yes
+1305,Book Title 1305,Ruskin Bond,Physics,7,No
+1306,Book Title 1306,R.D. Sharma,Chemistry,7,Yes
+1307,Book Title 1307,J.K. Rowling,AI,7,No
+1308,Book Title 1308,A.P.J. Abdul Kalam,Robotics,7,Yes
+1309,Book Title 1309,Oxford,Science,7,No
+1310,Book Title 1310,DK,Mathematics,7,Yes
+1311,Book Title 1311,Evergreen,English,7,No
+1312,Book Title 1312,NCERT,History,7,Yes
+1313,Book Title 1313,Ruskin Bond,Geography,7,No
+1314,Book Title 1314,R.D. Sharma,Computer,7,Yes
+1315,Book Title 1315,J.K. Rowling,Biology,7,No
+1316,Book Title 1316,A.P.J. Abdul Kalam,Physics,7,Yes
+1317,Book Title 1317,Oxford,Chemistry,7,No
+1318,Book Title 1318,DK,AI,7,Yes
+1319,Book Title 1319,Evergreen,Robotics,7,No
+1320,Book Title 1320,NCERT,Science,7,Yes
+1321,Book Title 1321,Ruskin Bond,Mathematics,7,No
+1322,Book Title 1322,R.D. Sharma,English,7,Yes
+1323,Book Title 1323,J.K. Rowling,History,7,No
+1324,Book Title 1324,A.P.J. Abdul Kalam,Geography,7,Yes
+1325,Book Title 1325,Oxford,Computer,7,No
+1326,Book Title 1326,DK,Biology,7,Yes
+1327,Book Title 1327,Evergreen,Physics,7,No
+1328,Book Title 1328,NCERT,Chemistry,7,Yes
+1329,Book Title 1329,Ruskin Bond,AI,7,No
+1330,Book Title 1330,R.D. Sharma,Robotics,7,Yes
+1331,Book Title 1331,J.K. Rowling,Science,7,No
+1332,Book Title 1332,A.P.J. Abdul Kalam,Mathematics,7,Yes
+1333,Book Title 1333,Oxford,English,7,No
+1334,Book Title 1334,DK,History,7,Yes
+1335,Book Title 1335,Evergreen,Geography,7,No
+1336,Book Title 1336,NCERT,Computer,7,Yes
+1337,Book Title 1337,Ruskin Bond,Biology,8,No
+1338,Book Title 1338,R.D. Sharma,Physics,8,Yes
+1339,Book Title 1339,J.K. Rowling,Chemistry,8,No
+1340,Book Title 1340,A.P.J. Abdul Kalam,AI,8,Yes
+1341,Book Title 1341,Oxford,Robotics,8,No
+1342,Book Title 1342,DK,Science,8,Yes
+1343,Book Title 1343,Evergreen,Mathematics,8,No
+1344,Book Title 1344,NCERT,English,8,Yes
+1345,Book Title 1345,Ruskin Bond,History,8,No
+1346,Book Title 1346,R.D. Sharma,Geography,8,Yes
+1347,Book Title 1347,J.K. Rowling,Computer,8,No
+1348,Book Title 1348,A.P.J. Abdul Kalam,Biology,8,Yes
+1349,Book Title 1349,Oxford,Physics,8,No
+1350,Book Title 1350,DK,Chemistry,8,Yes
+1351,Book Title 1351,Evergreen,AI,8,No
+1352,Book Title 1352,NCERT,Robotics,8,Yes
+1353,Book Title 1353,Ruskin Bond,Science,8,No
+1354,Book Title 1354,R.D. Sharma,Mathematics,8,Yes
+1355,Book Title 1355,J.K. Rowling,English,8,No
+1356,Book Title 1356,A.P.J. Abdul Kalam,History,8,Yes
+1357,Book Title 1357,Oxford,Geography,8,No
+1358,Book Title 1358,DK,Computer,8,Yes
+1359,Book Title 1359,Evergreen,Biology,8,No
+1360,Book Title 1360,NCERT,Physics,8,Yes
+1361,Book Title 1361,Ruskin Bond,Chemistry,8,No
+1362,Book Title 1362,R.D. Sharma,AI,8,Yes
+1363,Book Title 1363,J.K. Rowling,Robotics,8,No
+1364,Book Title 1364,A.P.J. Abdul Kalam,Science,8,Yes
+1365,Book Title 1365,Oxford,Mathematics,8,No
+1366,Book Title 1366,DK,English,8,Yes
+1367,Book Title 1367,Evergreen,History,8,No
+1368,Book Title 1368,NCERT,Geography,8,Yes
+1369,Book Title 1369,Ruskin Bond,Computer,8,No
+1370,Book Title 1370,R.D. Sharma,Biology,8,Yes
+1371,Book Title 1371,J.K. Rowling,Physics,8,No
+1372,Book Title 1372,A.P.J. Abdul Kalam,Chemistry,8,Yes
+1373,Book Title 1373,Oxford,AI,8,No
+1374,Book Title 1374,DK,Robotics,8,Yes
+1375,Book Title 1375,Evergreen,Science,8,No
+1376,Book Title 1376,NCERT,Mathematics,8,Yes
+1377,Book Title 1377,Ruskin Bond,English,8,No
+1378,Book Title 1378,R.D. Sharma,History,8,Yes
+1379,Book Title 1379,J.K. Rowling,Geography,8,No
+1380,Book Title 1380,A.P.J. Abdul Kalam,Computer,8,Yes
+1381,Book Title 1381,Oxford,Biology,8,No
+1382,Book Title 1382,DK,Physics,8,Yes
+1383,Book Title 1383,Evergreen,Chemistry,8,No
+1384,Book Title 1384,NCERT,AI,8,Yes
+1385,Book Title 1385,Ruskin Bond,Robotics,8,No
+1386,Book Title 1386,R.D. Sharma,Science,8,Yes
+1387,Book Title 1387,J.K. Rowling,Mathematics,8,No
+1388,Book Title 1388,A.P.J. Abdul Kalam,English,8,Yes
+1389,Book Title 1389,Oxford,History,8,No
+1390,Book Title 1390,DK,Geography,8,Yes
+1391,Book Title 1391,Evergreen,Computer,8,No
+1392,Book Title 1392,NCERT,Biology,8,Yes
+1393,Book Title 1393,Ruskin Bond,Physics,8,No
+1394,Book Title 1394,R.D. Sharma,Chemistry,8,Yes
+1395,Book Title 1395,J.K. Rowling,AI,8,No
+1396,Book Title 1396,A.P.J. Abdul Kalam,Robotics,8,Yes
+1397,Book Title 1397,Oxford,Science,8,No
+1398,Book Title 1398,DK,Mathematics,8,Yes
+1399,Book Title 1399,Evergreen,English,8,No
+1400,Book Title 1400,NCERT,History,8,Yes
+1401,Book Title 1401,Ruskin Bond,Geography,8,No
+1402,Book Title 1402,R.D. Sharma,Computer,8,Yes
+1403,Book Title 1403,J.K. Rowling,Biology,8,No
+1404,Book Title 1404,A.P.J. Abdul Kalam,Physics,8,Yes
+1405,Book Title 1405,Oxford,Chemistry,8,No
+1406,Book Title 1406,DK,AI,8,Yes
+1407,Book Title 1407,Evergreen,Robotics,8,No
+1408,Book Title 1408,NCERT,Science,8,Yes
+1409,Book Title 1409,Ruskin Bond,Mathematics,8,No
+1410,Book Title 1410,R.D. Sharma,English,8,Yes
+1411,Book Title 1411,J.K. Rowling,History,8,No
+1412,Book Title 1412,A.P.J. Abdul Kalam,Geography,8,Yes
+1413,Book Title 1413,Oxford,Computer,8,No
+1414,Book Title 1414,DK,Biology,8,Yes
+1415,Book Title 1415,Evergreen,Physics,8,No
+1416,Book Title 1416,NCERT,Chemistry,8,Yes
+1417,Book Title 1417,Ruskin Bond,AI,8,No
+1418,Book Title 1418,R.D. Sharma,Robotics,8,Yes
+1419,Book Title 1419,J.K. Rowling,Science,8,No
+1420,Book Title 1420,A.P.J. Abdul Kalam,Mathematics,8,Yes
+1421,Book Title 1421,Oxford,English,9,No
+1422,Book Title 1422,DK,History,9,Yes
+1423,Book Title 1423,Evergreen,Geography,9,No
+1424,Book Title 1424,NCERT,Computer,9,Yes
+1425,Book Title 1425,Ruskin Bond,Biology,9,No
+1426,Book Title 1426,R.D. Sharma,Physics,9,Yes
+1427,Book Title 1427,J.K. Rowling,Chemistry,9,No
+1428,Book Title 1428,A.P.J. Abdul Kalam,AI,9,Yes
+1429,Book Title 1429,Oxford,Robotics,9,No
+1430,Book Title 1430,DK,Science,9,Yes
+1431,Book Title 1431,Evergreen,Mathematics,9,No
+1432,Book Title 1432,NCERT,English,9,Yes
+1433,Book Title 1433,Ruskin Bond,History,9,No
+1434,Book Title 1434,R.D. Sharma,Geography,9,Yes
+1435,Book Title 1435,J.K. Rowling,Computer,9,No
+1436,Book Title 1436,A.P.J. Abdul Kalam,Biology,9,Yes
+1437,Book Title 1437,Oxford,Physics,9,No
+1438,Book Title 1438,DK,Chemistry,9,Yes
+1439,Book Title 1439,Evergreen,AI,9,No
+1440,Book Title 1440,NCERT,Robotics,9,Yes
+1441,Book Title 1441,Ruskin Bond,Science,9,No
+1442,Book Title 1442,R.D. Sharma,Mathematics,9,Yes
+1443,Book Title 1443,J.K. Rowling,English,9,No
+1444,Book Title 1444,A.P.J. Abdul Kalam,History,9,Yes
+1445,Book Title 1445,Oxford,Geography,9,No
+1446,Book Title 1446,DK,Computer,9,Yes
+1447,Book Title 1447,Evergreen,Biology,9,No
+1448,Book Title 1448,NCERT,Physics,9,Yes
+1449,Book Title 1449,Ruskin Bond,Chemistry,9,No
+1450,Book Title 1450,R.D. Sharma,AI,9,Yes
+1451,Book Title 1451,J.K. Rowling,Robotics,9,No
+1452,Book Title 1452,A.P.J. Abdul Kalam,Science,9,Yes
+1453,Book Title 1453,Oxford,Mathematics,9,No
+1454,Book Title 1454,DK,English,9,Yes
+1455,Book Title 1455,Evergreen,History,9,No
+1456,Book Title 1456,NCERT,Geography,9,Yes
+1457,Book Title 1457,Ruskin Bond,Computer,9,No
+1458,Book Title 1458,R.D. Sharma,Biology,9,Yes
+1459,Book Title 1459,J.K. Rowling,Physics,9,No
+1460,Book Title 1460,A.P.J. Abdul Kalam,Chemistry,9,Yes
+1461,Book Title 1461,Oxford,AI,9,No
+1462,Book Title 1462,DK,Robotics,9,Yes
+1463,Book Title 1463,Evergreen,Science,9,No
+1464,Book Title 1464,NCERT,Mathematics,9,Yes
+1465,Book Title 1465,Ruskin Bond,English,9,No
+1466,Book Title 1466,R.D. Sharma,History,9,Yes
+1467,Book Title 1467,J.K. Rowling,Geography,9,No
+1468,Book Title 1468,A.P.J. Abdul Kalam,Computer,9,Yes
+1469,Book Title 1469,Oxford,Biology,9,No
+1470,Book Title 1470,DK,Physics,9,Yes
+1471,Book Title 1471,Evergreen,Chemistry,9,No
+1472,Book Title 1472,NCERT,AI,9,Yes
+1473,Book Title 1473,Ruskin Bond,Robotics,9,No
+1474,Book Title 1474,R.D. Sharma,Science,9,Yes
+1475,Book Title 1475,J.K. Rowling,Mathematics,9,No
+1476,Book Title 1476,A.P.J. Abdul Kalam,English,9,Yes
+1477,Book Title 1477,Oxford,History,9,No
+1478,Book Title 1478,DK,Geography,9,Yes
+1479,Book Title 1479,Evergreen,Computer,9,No
+1480,Book Title 1480,NCERT,Biology,9,Yes
+1481,Book Title 1481,Ruskin Bond,Physics,9,No
+1482,Book Title 1482,R.D. Sharma,Chemistry,9,Yes
+1483,Book Title 1483,J.K. Rowling,AI,9,No
+1484,Book Title 1484,A.P.J. Abdul Kalam,Robotics,9,Yes
+1485,Book Title 1485,Oxford,Science,9,No
+1486,Book Title 1486,DK,Mathematics,9,Yes
+1487,Book Title 1487,Evergreen,English,9,No
+1488,Book Title 1488,NCERT,History,9,Yes
+1489,Book Title 1489,Ruskin Bond,Geography,9,No
+1490,Book Title 1490,R.D. Sharma,Computer,9,Yes
+1491,Book Title 1491,J.K. Rowling,Biology,9,No
+1492,Book Title 1492,A.P.J. Abdul Kalam,Physics,9,Yes
+1493,Book Title 1493,Oxford,Chemistry,9,No
+1494,Book Title 1494,DK,AI,9,Yes
+1495,Book Title 1495,Evergreen,Robotics,9,No
+1496,Book Title 1496,NCERT,Science,9,Yes
+1497,Book Title 1497,Ruskin Bond,Mathematics,9,No
+1498,Book Title 1498,R.D. Sharma,English,9,Yes
+1499,Book Title 1499,J.K. Rowling,History,9,No
+1500,Book Title 1500,A.P.J. Abdul Kalam,Geography,9,Yes
+1501,Book Title 1501,Oxford,Computer,9,No
+1502,Book Title 1502,DK,Biology,9,Yes
+1503,Book Title 1503,Evergreen,Physics,9,No
+1504,Book Title 1504,NCERT,Chemistry,9,Yes
+1505,Book Title 1505,Ruskin Bond,AI,10,No
+1506,Book Title 1506,R.D. Sharma,Robotics,10,Yes
+1507,Book Title 1507,J.K. Rowling,Science,10,No
+1508,Book Title 1508,A.P.J. Abdul Kalam,Mathematics,10,Yes
+1509,Book Title 1509,Oxford,English,10,No
+1510,Book Title 1510,DK,History,10,Yes
+1511,Book Title 1511,Evergreen,Geography,10,No
+1512,Book Title 1512,NCERT,Computer,10,Yes
+1513,Book Title 1513,Ruskin Bond,Biology,10,No
+1514,Book Title 1514,R.D. Sharma,Physics,10,Yes
+1515,Book Title 1515,J.K. Rowling,Chemistry,10,No
+1516,Book Title 1516,A.P.J. Abdul Kalam,AI,10,Yes
+1517,Book Title 1517,Oxford,Robotics,10,No
+1518,Book Title 1518,DK,Science,10,Yes
+1519,Book Title 1519,Evergreen,Mathematics,10,No
+1520,Book Title 1520,NCERT,English,10,Yes
+1521,Book Title 1521,Ruskin Bond,History,10,No
+1522,Book Title 1522,R.D. Sharma,Geography,10,Yes
+1523,Book Title 1523,J.K. Rowling,Computer,10,No
+1524,Book Title 1524,A.P.J. Abdul Kalam,Biology,10,Yes
+1525,Book Title 1525,Oxford,Physics,10,No
+1526,Book Title 1526,DK,Chemistry,10,Yes
+1527,Book Title 1527,Evergreen,AI,10,No
+1528,Book Title 1528,NCERT,Robotics,10,Yes
+1529,Book Title 1529,Ruskin Bond,Science,10,No
+1530,Book Title 1530,R.D. Sharma,Mathematics,10,Yes
+1531,Book Title 1531,J.K. Rowling,English,10,No
+1532,Book Title 1532,A.P.J. Abdul Kalam,History,10,Yes
+1533,Book Title 1533,Oxford,Geography,10,No
+1534,Book Title 1534,DK,Computer,10,Yes
+1535,Book Title 1535,Evergreen,Biology,10,No
+1536,Book Title 1536,NCERT,Physics,10,Yes
+1537,Book Title 1537,Ruskin Bond,Chemistry,10,No
+1538,Book Title 1538,R.D. Sharma,AI,10,Yes
+1539,Book Title 1539,J.K. Rowling,Robotics,10,No
+1540,Book Title 1540,A.P.J. Abdul Kalam,Science,10,Yes
+1541,Book Title 1541,Oxford,Mathematics,10,No
+1542,Book Title 1542,DK,English,10,Yes
+1543,Book Title 1543,Evergreen,History,10,No
+1544,Book Title 1544,NCERT,Geography,10,Yes
+1545,Book Title 1545,Ruskin Bond,Computer,10,No
+1546,Book Title 1546,R.D. Sharma,Biology,10,Yes
+1547,Book Title 1547,J.K. Rowling,Physics,10,No
+1548,Book Title 1548,A.P.J. Abdul Kalam,Chemistry,10,Yes
+1549,Book Title 1549,Oxford,AI,10,No
+1550,Book Title 1550,DK,Robotics,10,Yes
+1551,Book Title 1551,Evergreen,Science,10,No
+1552,Book Title 1552,NCERT,Mathematics,10,Yes
+1553,Book Title 1553,Ruskin Bond,English,10,No
+1554,Book Title 1554,R.D. Sharma,History,10,Yes
+1555,Book Title 1555,J.K. Rowling,Geography,10,No
+1556,Book Title 1556,A.P.J. Abdul Kalam,Computer,10,Yes
+1557,Book Title 1557,Oxford,Biology,10,No
+1558,Book Title 1558,DK,Physics,10,Yes
+1559,Book Title 1559,Evergreen,Chemistry,10,No
+1560,Book Title 1560,NCERT,AI,10,Yes
+1561,Book Title 1561,Ruskin Bond,Robotics,10,No
+1562,Book Title 1562,R.D. Sharma,Science,10,Yes
+1563,Book Title 1563,J.K. Rowling,Mathematics,10,No
+1564,Book Title 1564,A.P.J. Abdul Kalam,English,10,Yes
+1565,Book Title 1565,Oxford,History,10,No
+1566,Book Title 1566,DK,Geography,10,Yes
+1567,Book Title 1567,Evergreen,Computer,10,No
+1568,Book Title 1568,NCERT,Biology,10,Yes
+1569,Book Title 1569,Ruskin Bond,Physics,10,No
+1570,Book Title 1570,R.D. Sharma,Chemistry,10,Yes
+1571,Book Title 1571,J.K. Rowling,AI,10,No
+1572,Book Title 1572,A.P.J. Abdul Kalam,Robotics,10,Yes
+1573,Book Title 1573,Oxford,Science,10,No
+1574,Book Title 1574,DK,Mathematics,10,Yes
+1575,Book Title 1575,Evergreen,English,10,No
+1576,Book Title 1576,NCERT,History,10,Yes
+1577,Book Title 1577,Ruskin Bond,Geography,10,No
+1578,Book Title 1578,R.D. Sharma,Computer,10,Yes
+1579,Book Title 1579,J.K. Rowling,Biology,10,No
+1580,Book Title 1580,A.P.J. Abdul Kalam,Physics,10,Yes
+1581,Book Title 1581,Oxford,Chemistry,10,No
+1582,Book Title 1582,DK,AI,10,Yes
+1583,Book Title 1583,Evergreen,Robotics,10,No
+1584,Book Title 1584,NCERT,Science,10,Yes
+1585,Book Title 1585,Ruskin Bond,Mathematics,10,No
+1586,Book Title 1586,R.D. Sharma,English,10,Yes
+1587,Book Title 1587,J.K. Rowling,History,10,No
+1588,Book Title 1588,A.P.J. Abdul Kalam,Geography,10,Yes
+1589,Book Title 1589,Oxford,Computer,11,No
+1590,Book Title 1590,DK,Biology,11,Yes
+1591,Book Title 1591,Evergreen,Physics,11,No
+1592,Book Title 1592,NCERT,Chemistry,11,Yes
+1593,Book Title 1593,Ruskin Bond,AI,11,No
+1594,Book Title 1594,R.D. Sharma,Robotics,11,Yes
+1595,Book Title 1595,J.K. Rowling,Science,11,No
+1596,Book Title 1596,A.P.J. Abdul Kalam,Mathematics,11,Yes
+1597,Book Title 1597,Oxford,English,11,No
+1598,Book Title 1598,DK,History,11,Yes
+1599,Book Title 1599,Evergreen,Geography,11,No
+1600,Book Title 1600,NCERT,Computer,11,Yes
+1601,Book Title 1601,Ruskin Bond,Biology,11,No
+1602,Book Title 1602,R.D. Sharma,Physics,11,Yes
+1603,Book Title 1603,J.K. Rowling,Chemistry,11,No
+1604,Book Title 1604,A.P.J. Abdul Kalam,AI,11,Yes
+1605,Book Title 1605,Oxford,Robotics,11,No
+1606,Book Title 1606,DK,Science,11,Yes
+1607,Book Title 1607,Evergreen,Mathematics,11,No
+1608,Book Title 1608,NCERT,English,11,Yes
+1609,Book Title 1609,Ruskin Bond,History,11,No
+1610,Book Title 1610,R.D. Sharma,Geography,11,Yes
+1611,Book Title 1611,J.K. Rowling,Computer,11,No
+1612,Book Title 1612,A.P.J. Abdul Kalam,Biology,11,Yes
+1613,Book Title 1613,Oxford,Physics,11,No
+1614,Book Title 1614,DK,Chemistry,11,Yes
+1615,Book Title 1615,Evergreen,AI,11,No
+1616,Book Title 1616,NCERT,Robotics,11,Yes
+1617,Book Title 1617,Ruskin Bond,Science,11,No
+1618,Book Title 1618,R.D. Sharma,Mathematics,11,Yes
+1619,Book Title 1619,J.K. Rowling,English,11,No
+1620,Book Title 1620,A.P.J. Abdul Kalam,History,11,Yes
+1621,Book Title 1621,Oxford,Geography,11,No
+1622,Book Title 1622,DK,Computer,11,Yes
+1623,Book Title 1623,Evergreen,Biology,11,No
+1624,Book Title 1624,NCERT,Physics,11,Yes
+1625,Book Title 1625,Ruskin Bond,Chemistry,11,No
+1626,Book Title 1626,R.D. Sharma,AI,11,Yes
+1627,Book Title 1627,J.K. Rowling,Robotics,11,No
+1628,Book Title 1628,A.P.J. Abdul Kalam,Science,11,Yes
+1629,Book Title 1629,Oxford,Mathematics,11,No
+1630,Book Title 1630,DK,English,11,Yes
+1631,Book Title 1631,Evergreen,History,11,No
+1632,Book Title 1632,NCERT,Geography,11,Yes
+1633,Book Title 1633,Ruskin Bond,Computer,11,No
+1634,Book Title 1634,R.D. Sharma,Biology,11,Yes
+1635,Book Title 1635,J.K. Rowling,Physics,11,No
+1636,Book Title 1636,A.P.J. Abdul Kalam,Chemistry,11,Yes
+1637,Book Title 1637,Oxford,AI,11,No
+1638,Book Title 1638,DK,Robotics,11,Yes
+1639,Book Title 1639,Evergreen,Science,11,No
+1640,Book Title 1640,NCERT,Mathematics,11,Yes
+1641,Book Title 1641,Ruskin Bond,English,11,No
+1642,Book Title 1642,R.D. Sharma,History,11,Yes
+1643,Book Title 1643,J.K. Rowling,Geography,11,No
+1644,Book Title 1644,A.P.J. Abdul Kalam,Computer,11,Yes
+1645,Book Title 1645,Oxford,Biology,11,No
+1646,Book Title 1646,DK,Physics,11,Yes
+1647,Book Title 1647,Evergreen,Chemistry,11,No
+1648,Book Title 1648,NCERT,AI,11,Yes
+1649,Book Title 1649,Ruskin Bond,Robotics,11,No
+1650,Book Title 1650,R.D. Sharma,Science,11,Yes
+1651,Book Title 1651,J.K. Rowling,Mathematics,11,No
+1652,Book Title 1652,A.P.J. Abdul Kalam,English,11,Yes
+1653,Book Title 1653,Oxford,History,11,No
+1654,Book Title 1654,DK,Geography,11,Yes
+1655,Book Title 1655,Evergreen,Computer,11,No
+1656,Book Title 1656,NCERT,Biology,11,Yes
+1657,Book Title 1657,Ruskin Bond,Physics,11,No
+1658,Book Title 1658,R.D. Sharma,Chemistry,11,Yes
+1659,Book Title 1659,J.K. Rowling,AI,11,No
+1660,Book Title 1660,A.P.J. Abdul Kalam,Robotics,11,Yes
+1661,Book Title 1661,Oxford,Science,11,No
+1662,Book Title 1662,DK,Mathematics,11,Yes
+1663,Book Title 1663,Evergreen,English,11,No
+1664,Book Title 1664,NCERT,History,11,Yes
+1665,Book Title 1665,Ruskin Bond,Geography,11,No
+1666,Book Title 1666,R.D. Sharma,Computer,11,Yes
+1667,Book Title 1667,J.K. Rowling,Biology,11,No
+1668,Book Title 1668,A.P.J. Abdul Kalam,Physics,11,Yes
+1669,Book Title 1669,Oxford,Chemistry,11,No
+1670,Book Title 1670,DK,AI,11,Yes
+1671,Book Title 1671,Evergreen,Robotics,11,No
+1672,Book Title 1672,NCERT,Science,11,Yes
+1673,Book Title 1673,Ruskin Bond,Mathematics,12,No
+1674,Book Title 1674,R.D. Sharma,English,12,Yes
+1675,Book Title 1675,J.K. Rowling,History,12,No
+1676,Book Title 1676,A.P.J. Abdul Kalam,Geography,12,Yes
+1677,Book Title 1677,Oxford,Computer,12,No
+1678,Book Title 1678,DK,Biology,12,Yes
+1679,Book Title 1679,Evergreen,Physics,12,No
+1680,Book Title 1680,NCERT,Chemistry,12,Yes
+1681,Book Title 1681,Ruskin Bond,AI,12,No
+1682,Book Title 1682,R.D. Sharma,Robotics,12,Yes
+1683,Book Title 1683,J.K. Rowling,Science,12,No
+1684,Book Title 1684,A.P.J. Abdul Kalam,Mathematics,12,Yes
+1685,Book Title 1685,Oxford,English,12,No
+1686,Book Title 1686,DK,History,12,Yes
+1687,Book Title 1687,Evergreen,Geography,12,No
+1688,Book Title 1688,NCERT,Computer,12,Yes
+1689,Book Title 1689,Ruskin Bond,Biology,12,No
+1690,Book Title 1690,R.D. Sharma,Physics,12,Yes
+1691,Book Title 1691,J.K. Rowling,Chemistry,12,No
+1692,Book Title 1692,A.P.J. Abdul Kalam,AI,12,Yes
+1693,Book Title 1693,Oxford,Robotics,12,No
+1694,Book Title 1694,DK,Science,12,Yes
+1695,Book Title 1695,Evergreen,Mathematics,12,No
+1696,Book Title 1696,NCERT,English,12,Yes
+1697,Book Title 1697,Ruskin Bond,History,12,No
+1698,Book Title 1698,R.D. Sharma,Geography,12,Yes
+1699,Book Title 1699,J.K. Rowling,Computer,12,No
+1700,Book Title 1700,A.P.J. Abdul Kalam,Biology,12,Yes
+1701,Book Title 1701,Oxford,Physics,12,No
+1702,Book Title 1702,DK,Chemistry,12,Yes
+1703,Book Title 1703,Evergreen,AI,12,No
+1704,Book Title 1704,NCERT,Robotics,12,Yes
+1705,Book Title 1705,Ruskin Bond,Science,12,No
+1706,Book Title 1706,R.D. Sharma,Mathematics,12,Yes
+1707,Book Title 1707,J.K. Rowling,English,12,No
+1708,Book Title 1708,A.P.J. Abdul Kalam,History,12,Yes
+1709,Book Title 1709,Oxford,Geography,12,No
+1710,Book Title 1710,DK,Computer,12,Yes
+1711,Book Title 1711,Evergreen,Biology,12,No
+1712,Book Title 1712,NCERT,Physics,12,Yes
+1713,Book Title 1713,Ruskin Bond,Chemistry,12,No
+1714,Book Title 1714,R.D. Sharma,AI,12,Yes
+1715,Book Title 1715,J.K. Rowling,Robotics,12,No
+1716,Book Title 1716,A.P.J. Abdul Kalam,Science,12,Yes
+1717,Book Title 1717,Oxford,Mathematics,12,No
+1718,Book Title 1718,DK,English,12,Yes
+1719,Book Title 1719,Evergreen,History,12,No
+1720,Book Title 1720,NCERT,Geography,12,Yes
+1721,Book Title 1721,Ruskin Bond,Computer,12,No
+1722,Book Title 1722,R.D. Sharma,Biology,12,Yes
+1723,Book Title 1723,J.K. Rowling,Physics,12,No
+1724,Book Title 1724,A.P.J. Abdul Kalam,Chemistry,12,Yes
+1725,Book Title 1725,Oxford,AI,12,No
+1726,Book Title 1726,DK,Robotics,12,Yes
+1727,Book Title 1727,Evergreen,Science,12,No
+1728,Book Title 1728,NCERT,Mathematics,12,Yes
+1729,Book Title 1729,Ruskin Bond,English,12,No
+1730,Book Title 1730,R.D. Sharma,History,12,Yes
+1731,Book Title 1731,J.K. Rowling,Geography,12,No
+1732,Book Title 1732,A.P.J. Abdul Kalam,Computer,12,Yes
+1733,Book Title 1733,Oxford,Biology,12,No
+1734,Book Title 1734,DK,Physics,12,Yes
+1735,Book Title 1735,Evergreen,Chemistry,12,No
+1736,Book Title 1736,NCERT,AI,12,Yes
+1737,Book Title 1737,Ruskin Bond,Robotics,12,No
+1738,Book Title 1738,R.D. Sharma,Science,12,Yes
+1739,Book Title 1739,J.K. Rowling,Mathematics,12,No
+1740,Book Title 1740,A.P.J. Abdul Kalam,English,12,Yes
+1741,Book Title 1741,Oxford,History,12,No
+1742,Book Title 1742,DK,Geography,12,Yes
+1743,Book Title 1743,Evergreen,Computer,12,No
+1744,Book Title 1744,NCERT,Biology,12,Yes
+1745,Book Title 1745,Ruskin Bond,Physics,12,No
+1746,Book Title 1746,R.D. Sharma,Chemistry,12,Yes
+1747,Book Title 1747,J.K. Rowling,AI,12,No
+1748,Book Title 1748,A.P.J. Abdul Kalam,Robotics,12,Yes
+1749,Book Title 1749,Oxford,Science,12,No
+1750,Book Title 1750,DK,Mathematics,12,Yes
+1751,Book Title 1751,Evergreen,English,12,No
+1752,Book Title 1752,NCERT,History,12,Yes
+1753,Book Title 1753,Ruskin Bond,Geography,12,No
+1754,Book Title 1754,R.D. Sharma,Computer,12,Yes
+1755,Book Title 1755,J.K. Rowling,Biology,12,No
+1756,Book Title 1756,A.P.J. Abdul Kalam,Physics,12,Yes
